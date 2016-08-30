@@ -1,0 +1,24 @@
+{
+  "name": "scoring_app",
+  "version": "1.0.0",
+  "description": "Score Games and keep up to date with standings and schedules for softball or baseball games.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-holcom/ScoringApp.git"
+  },
+  "keywords": [
+    "Baseball",
+    "Softball",
+    "Score"
+  ],
+  "author": "Kimerlee Holcom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-holcom/ScoringApp/issues"
+  },
+  "homepage": "https://github.com/k-holcom/ScoringApp#readme"
+}
